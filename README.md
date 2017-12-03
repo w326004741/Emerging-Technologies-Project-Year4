@@ -38,6 +38,7 @@ Now head over to http://127.0.0.1:5000/, and you should see your hello world gre
 - [Numpy](http://www.numpy.org/)
 - [Scipy](https://www.scipy.org/install.html)
 - [Pillow](https://pillow.readthedocs.io/en/4.3.x/installation.html)
+- [Jinja2](http://flask.pocoo.org/docs/0.12/templating/)
 
 Use pip to install [Flask](http://flask.pocoo.org/docs/0.12/quickstart/#a-minimal-application): 
 - `$ pip install Flask`
@@ -57,6 +58,9 @@ Use pip to install [Scipy](https://stackoverflow.com/questions/2213551/installin
 
 Use pip to install [Pillow](https://pillow.readthedocs.io/en/4.3.x/installation.html):
 - `$ pip install Pillow`
+
+Use pip to install [Jinja2](https://stackoverflow.com/questions/6726983/jinja-install-for-python)
+- `pip install Jinja2`
 ## How to use this repository:
 1. Click Clone or download and Copy to clipboard
 2. Enter your Terminal(for mac) or cmd(for windows), and following below:
@@ -106,4 +110,5 @@ Have three .py files : webapp.py, train.py, load.py
 - [channels_first & channels_last](http://blog.csdn.net/sinat_26917383/article/details/72859145)
 - [HTML form Using JQuery AJAX](https://stackoverflow.com/questions/16323360/submitting-html-form-using-jquery-ajax)
 - [Loading jQuery](http://flask.pocoo.org/docs/0.12/patterns/jquery/)
+- [Jinja2](http://flask.pocoo.org/docs/0.12/templating/)
 - [Set Script Root](http://flask.pocoo.org/docs/0.12/patterns/jquery/)
