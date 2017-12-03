@@ -3,6 +3,8 @@
 > Lecturer: Dr Ian McLoughlin  
 > Project 2017 : [Web Application in Python to Recognise Digits in Images](https://github.com/w326004741/Emerging-Technologies-Project-Year4/wiki/Project-2017) 
 
+> Student: [Weichen Wang](https://github.com/w326004741)
+
 The following are your instructions to complete the project for the module Emerging Technologies for 2017.
 
 ## Overview
