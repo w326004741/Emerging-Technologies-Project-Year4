@@ -72,7 +72,7 @@ export FLASK_APP=webapp.py
 flask run
 ```
 ## About Project:
-Have 3 .py files : webapp.py, train.py, load.py
+Have three .py files : webapp.py, train.py, load.py
 ```
  webapp.py : Run web application in Python
 
