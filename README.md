@@ -92,6 +92,8 @@ Have three .py files : webapp.py, train.py, load.py
               Because of he default graph lives in the _default_graph_stack, but we don't have access to that directly.
  
 ```
+## Output:
+![image](https://github.com/w326004741/Emerging-Technologies-Project-Year4/blob/master/images/image.png)
 ## Reference:
 - [tf.get_default_graph()](https://www.tensorflow.org/api_docs/python/tf/get_default_graph)
 - [How to use css file in html](https://stackoverflow.com/questions/16351826/link-to-flask-static-files-with-url-for)
